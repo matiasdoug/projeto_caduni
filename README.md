@@ -48,6 +48,8 @@ Modify the connection details in the code according to your SQL Server database 
 ## Modify the connection string as needed based on your SQL Server configuration
 
 **connection_string = f'DRIVER={{SQL Server}};SERVER={server};DATABASE={database};UID={username};PWD={password}'**
+
+
 **conn = pyodbc.connect(connection_string)**
 
 ## Installation
