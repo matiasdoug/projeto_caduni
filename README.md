@@ -45,20 +45,32 @@ conn = pyodbc.connect(connection_string)
 To install Projeto Caduni on your system, follow these steps:
 
 1 - Clone the repository:
+
+
 git clone https://github.com/your_username/projeto_caduni.git
 
 2 - Navigate to the project directory:
+
+
 cd projeto_caduni
 
 3- Create a virtual environment:
+
+
 python -m venv venv
 
 4- Activate the virtual environment:
+
+
 windows - venv\Scripts\activate
+
+
 linux/macOS - source venv/bin/activate
 
 ## Usage
 Once you have installed the project and activated the virtual environment, you can run Projeto Caduni:
+
+
 python main.py
 
 ## Contributing
