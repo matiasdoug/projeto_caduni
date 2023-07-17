@@ -7,8 +7,14 @@ Projeto Caduni is a Python application that allows users to register passengers,
 Before running Projeto Caduni, make sure you have the following dependencies installed:
 
 Python 3.x
+
+
 pyodbc
+
+
 pandas
+
+
 You can install the required dependencies using pip by running the following command within your virtual environment:
 pip install pyodbc pandas
 
@@ -21,8 +27,14 @@ Modify the connection details in the code according to your SQL Server database 
 import pyodbc
 
 server = 'your_server_name'
+
+
 database = 'your_database_name'
+
+
 username = 'your_username'
+
+
 password = 'your_password'
 
 ## Modify the connection string as needed based on your SQL Server configuration
