@@ -18,6 +18,8 @@ pandas
 
 
 You can install the required dependencies using pip by running the following command within your virtual environment:
+
+
 pip install pyodbc pandas
 
 ## Database Connectivity
