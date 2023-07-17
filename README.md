@@ -1,9 +1,11 @@
 # Projeto Caduni
 
-![cover](/cover1.jpg)
+
 
 Projeto Caduni is a Python application that allows users to register passengers, bus drivers, bus cards, and buses. Additionally, it provides functionality to check the registered records.
 
+
+![cover](/cover1.jpg)
 ## Dependencies
 
 Before running Projeto Caduni, make sure you have the following dependencies installed:
