@@ -1,6 +1,9 @@
 ##### CRUD ######
 
-"""
+CREATE DATABASE caduni
+
+CREATE SCHEMA jaelson_matias
+
 CREATE TABLE jaelson_matias.CARTAO
     (
      id_cartao INTEGER IDENTITY,
@@ -107,4 +110,3 @@ ALTER TABLE jaelson_matias.ONIBUS
     ON DELETE NO ACTION
     ON UPDATE NO ACTION
 GO
-"""
