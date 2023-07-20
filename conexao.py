@@ -12,7 +12,7 @@ def conecta():
         server = 'sql-estudo.database.windows.net'
         driver = '{ODBC Driver 17 for SQL Server}'
         database = 'db-estudos'
-        username = 'jaelson.matias@blueshift.com.br'
+        username = 'jaelson.matias@username.com.br'
         authentication = 'ActiveDirectoryInteractive'
         port = '1433'
         conn = pyodbc.connect(
